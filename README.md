@@ -6,7 +6,6 @@
 <head>
     <title>Lab 8.1: My Webpage</title>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="styles.css">
     <meta name="description" content="Lab 8.1\ webpage">
 </head>
 
