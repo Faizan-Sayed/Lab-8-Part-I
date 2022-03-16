@@ -48,5 +48,61 @@
                 href="C:\Users\faisay25\Documents\code\Unit 8\Lab 8.1\hobby_expansion.html">Hobbies</a> to see what he
             likes to do!</p>
 </body>
+<!--
+html {
+    background-color: #242424;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 16px;
+}
+body {
+    background-color: #447685;
+    width: 900px;
+    margin: 0 auto;
+    border: 5px solid black;
+    padding: 0 70px 70px 70px;
+}
+p, li {
+    font-size: 2.5em;
+    line-height: 1.75;
+    letter-spacing: 1.5px;
+}
+h1 {
+    font-size: 5em;
+    text-align: center;
+    padding: 5px;
+    border: 2px red;
+    margin: 10px 0;
 
+}
+.bold {
+    font-weight: bold;
+}
+li.bold {
+    font-style: italic;
+}
+p.bold {
+    text-decoration: underline;
+}
+#subjectintro {
+    color: red;
+}
+
+img {
+    display: block;
+    width: 70%;
+    height: auto;
+    margin: 0 auto;
+}
+
+div.coolbox {
+    margin: 20px;
+    padding: 10px;
+    border: lightblue dotted 3px;
+}
+
+span.language {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+}
+--!>
 </html>
